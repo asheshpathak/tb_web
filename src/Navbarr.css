@@ -1,0 +1,38 @@
+.navbar{
+    background-color: rgb(211, 211, 156);
+}
+.navbar__logo{
+    width: 50px;
+    object-fit: contain;
+    margin: 0 ;
+    margin-top: 0px;
+    height: 50px;
+    padding-bottom: 5px;
+}
+.header__basketCount {
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 0px;
+    color: rgba(0,0,0,.5);
+  }
+.basket{
+    display: flex;;
+}
+.nav-link{
+    color: #a18438;
+}
+.nav-link:hover{
+    color: #846a29;
+}
+
+.header__optionLineOne {
+    font-size: 10px;
+    margin-right: 0px;
+  }
+  
+  .header__optionLineTwo {
+    font-size: 15px;
+    font-weight: 800;
+    margin-bottom: 5px;
+    
+  }

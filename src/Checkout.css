@@ -1,0 +1,8 @@
+.checkout{
+    background-color: white;
+    height: max-content;
+}
+.checkout__title{
+    border-bottom: 1px solid lightgray;
+    padding: 10px;
+}
